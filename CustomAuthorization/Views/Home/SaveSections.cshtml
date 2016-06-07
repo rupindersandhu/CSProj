@@ -1,0 +1,33 @@
+﻿
+@model List<CustomAuthorization.CustomHelper.CustomUserPrivilage>
+
+
+    @{
+        ViewBag.Title = "SaveSections";
+    }
+
+    <h2>SaveSections</h2>
+
+    <table>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="ctrl">@item.Controller</td>
+                <td class="act">@item.Action</td>
+                <!--<td>Model.PrivilageStructs[i].Parameters</td>
+                {
+                    var checkboxAttributes = Model.PrivilageStructs[i].checkedStatus ?
+                        (object)new { class = "mySpecialClass", checked = "checked" } :
+                        (object)new { class = "mySpecialClass" };
+                }
+                    -->
+
+                <td class="pmts"> @string.Join(",", item.Parameters.ToArray()) </td>
+                <td class="ret">@item.ReturnType</td>
+                <td>
+                    <input type="checkbox" class="chk" @(item.checkedStatus ? "checked" : "")
+                           @(item.disabledStatus ? "disabled" : "") />
+                </td>
+            </tr>
+        }
+    </table>

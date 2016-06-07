@@ -1,0 +1,113 @@
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.Tests.dll.config
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.Tests.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.Tests.pdb
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Owin.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.pdb
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\obj\Debug\CustomAuthorization.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\obj\Debug\CustomAuthorization.Tests.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization.Tests\obj\Debug\CustomAuthorization.Tests.pdb
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.Tests.dll.config
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.Tests.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.Tests.pdb
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\EntityFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\CustomAuthorization.pdb
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\EntityFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\obj\Debug\CustomAuthorization.Tests.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\obj\Debug\CustomAuthorization.Tests.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization.Tests\obj\Debug\CustomAuthorization.Tests.pdb

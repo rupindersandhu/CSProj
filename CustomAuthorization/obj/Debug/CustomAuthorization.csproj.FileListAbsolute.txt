@@ -1,0 +1,656 @@
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Owin.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\WebGrease.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\Pirate Sandhu\Desktop\term4\CS\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\WebGrease.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\WebGrease.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\john_\Desktop\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\WebGrease.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v2\CustomAuthorization\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Owin.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\WebGrease.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\a00926003\Desktop\CustomAuthorization_v3\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Owin.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\WebGrease.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\john_\Desktop\CustomAuthorization_v3\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Owin.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\WebGrease.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.2\CustomAuthorization\obj\Debug\CustomAuthorization.pdb
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\ApplicationInsights.config
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\csc.exe
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\vbc.exe
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\CustomAuthorization.dll.config
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\CustomAuthorization.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\CustomAuthorization.pdb
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Antlr3.Runtime.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\EntityFramework.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\EntityFramework.SqlServer.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.Web.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Newtonsoft.Json.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Owin.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Helpers.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Mvc.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Optimization.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Razor.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.WebPages.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\WebGrease.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.Web.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Helpers.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Mvc.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Optimization.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.Razor.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.WebPages.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Antlr3.Runtime.pdb
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Newtonsoft.Json.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\EntityFramework.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\EntityFramework.SqlServer.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\obj\Debug\CustomAuthorization.csprojResolveAssemblyReference.cache
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\obj\Debug\CustomAuthorization.dll
+C:\Users\Rupinder Sandhu\Desktop\CustomAuthorization_v3.3\CustomAuthorization\obj\Debug\CustomAuthorization.pdb

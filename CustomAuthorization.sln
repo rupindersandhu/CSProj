@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAuthorization", "CustomAuthorization\CustomAuthorization.csproj", "{896B6B4A-95FB-4A06-A26E-73CB69CF2C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAuthorization.Tests", "CustomAuthorization.Tests\CustomAuthorization.Tests.csproj", "{01D485EC-DBAD-48CD-B094-E35B3942235F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896B6B4A-95FB-4A06-A26E-73CB69CF2C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896B6B4A-95FB-4A06-A26E-73CB69CF2C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896B6B4A-95FB-4A06-A26E-73CB69CF2C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896B6B4A-95FB-4A06-A26E-73CB69CF2C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01D485EC-DBAD-48CD-B094-E35B3942235F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01D485EC-DBAD-48CD-B094-E35B3942235F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01D485EC-DBAD-48CD-B094-E35B3942235F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01D485EC-DBAD-48CD-B094-E35B3942235F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

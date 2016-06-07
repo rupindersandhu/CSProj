@@ -1,0 +1,87 @@
+﻿
+@model CustomAuthorization.Models.AssemblyCompositionVM
+
+@section Scripts
+{
+    <script src="@Url.Content("~/Scripts/customJs.js")"></script>
+    
+}
+<script language="JavaScript">
+    function toggle(source) {
+        checkboxes = document.getElementsByClassName('chk');
+        for (var i = 0, n = checkboxes.length; i < n; i++) {
+            checkboxes[i].checked = source.checked;
+        }
+    }
+</script>
+
+@{
+    ViewBag.Title = "editPrivilages";
+}
+
+<h2>editPrivilages</h2>
+
+<div id="sd" class="col-md-12">
+    <h4>
+        <!--ViewBag.Aptt2-->
+    </h4>
+
+    <h4>Actions of Controllers found in the Application : <span id="actionCount">@Model.Count</span></h4>
+    <div class="text-right">
+        Select All <input type="checkbox" onClick="toggle(this)" /> <br />
+    </div>
+
+    <label id="userId" hidden="hidden">@Model.UserId</label>
+
+    <table>
+
+        <thead>
+            <tr>
+                <th>
+                    <label>Controller</label>
+                </th>
+                <th>
+                    <label>Actions</label>
+                </th>
+                <th>
+                    <label>Parameters(seperated by ",")</label>
+                </th>
+                <th>
+                    <label>Return Type</label>
+                </th>
+            </tr>
+        </thead>
+        @foreach (var item in Model.PrivilageStructs)
+        {
+            <tr>
+                <td class="ctrl">@item.Controller</td>
+                <td class="act">@item.Action</td>
+                <!--<td>Model.PrivilageStructs[i].Parameters</td>
+                {
+                    var checkboxAttributes = Model.PrivilageStructs[i].checkedStatus ?
+                        (object)new { class = "mySpecialClass", checked = "checked" } :
+                        (object)new { class = "mySpecialClass" };
+                }
+                    -->
+
+                <td class="pmts"> @string.Join(",", item.Parameters.ToArray()) </td>
+                <td class="ret">@item.ReturnType</td>
+                <td>
+                    <input type="checkbox" class="chk" @(item.checkedStatus ? "checked" : "")
+                           @(item.disabledStatus ? "disabled" : "") />
+                </td>
+            </tr>
+        }
+    </table>
+
+    <br />
+
+    <input type="button" id="omega" value="Submit" class="btn btn-default" onclick="senderFunct()" />
+    
+
+    <br />
+    <br />
+
+    @Html.ActionLink("Back to List", "Index")
+
+</div>
